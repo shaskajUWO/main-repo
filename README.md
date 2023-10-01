@@ -1,2 +1,1 @@
-# main-repo
-This is a log of my past assignments and programs for my personal use.
+# Assignment One <01> - Shon Haskaj - CS1026
